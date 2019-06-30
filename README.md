@@ -3,7 +3,7 @@ Parse through an assembled chromosome and identify the coordinates of N-islands 
 
 This is a pipeline consisting of 4 Python and 4 Bash scripts.
 
-N-islands are sequences of 100 consecutive Ns that are used to separate sequences of regular bases.
+N-islands are sequences of 100 consecutive Ns that are used to separate sequences of regular bases. Sometimes they can be longer indicating different reasons for their existence.
 
 Manual:
 1. Create a directory and place the 8 scripts in it.
